@@ -87,10 +87,6 @@ Requirement analysis is crucial in the SDLC because it helps ensure that the fin
 5. **Maintain Traceability:**
    - Link each requirement to its source and keep track of changes.
 
----
-
-### Conclusion
-Requirement analysis is a vital phase in the SDLC, forming the blueprint for successful software development. By understanding, documenting, and validating requirements, teams can build software that truly meets the users' needs while minimizing risks and maximizing efficiency. Adopting systematic techniques and best practices in requirement analysis leads to well-defined project scopes, smoother development processes, and higher stakeholder satisfaction.
 
 #### Use Case Diagrams
 
@@ -108,3 +104,73 @@ Help in identifying and organizing system requirements.
 Facilitate communication among stakeholders and development team.
 
 https://github.com/chaymaeraja/requirement-analysis/blob/main/alx-booking-uc.png
+
+##### Acceptance Criteria.
+
+Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+How to Define Acceptance Criteria:
+
+Be specific and measurable.
+Include functional and non-functional aspects.
+Example for Booking System: “Users should be able to select available dates, confirm booking, and receive a confirmation email within 2 minutes.”
+Benefits of Acceptance Criteria:
+
+Ensure all parties have a clear understanding of feature requirements.
+Provide a basis for testing and validation.
+Help in maintaining quality and meeting user expectations.
+
+
+
+**Access Checkout Page:**
+
+Users are redirected to the Checkout page after clicking the "Pay" button from their booking.
+
+**Display Booking Details:**
+
+The page shows:
+
+Booking number
+
+User name
+
+Reserved service details
+
+Start and end dates
+
+Total amount
+
+**Select Payment Method:**
+
+Users can choose between:
+
+Credit/Debit Card
+
+PayPal
+
+Bank Transfer
+
+The selected method is highlighted.
+
+**Payment Information Validation:**
+
+Fields are checked for completeness and correct format.
+
+Card number (16 digits) and expiration date are validated.
+
+**Payment Processing:**
+
+Clicking "Confirm" initiates payment processing with a progress indicator.
+
+**Booking Confirmation:**
+
+Upon successful payment:
+
+A success message ("Booking confirmed!") is displayed.
+
+A confirmation email is sent to the user.
+
+**Error Handling:**
+
+If payment fails, an error message is displayed.
+
+Users are prompted to retry or select a different payment method.
