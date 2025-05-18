@@ -106,3 +106,5 @@ Draw interactions between actors and use cases.
 Provide a clear visual representation of system functionalities.
 Help in identifying and organizing system requirements.
 Facilitate communication among stakeholders and development team.
+
+https://github.com/chaymaeraja/requirement-analysis/blob/main/alx-booking-uc.png
