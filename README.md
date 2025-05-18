@@ -34,7 +34,7 @@ Requirement analysis is crucial in the SDLC because it helps ensure that the fin
 
 ---
 
-### Steps Involved in Requirement Analysis
+### Key Activities in Requirement Analysis.
 
 1. **Requirement Gathering:**
    - Collect requirements from stakeholders through interviews, surveys, and observations.
