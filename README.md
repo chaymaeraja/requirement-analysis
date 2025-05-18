@@ -91,3 +91,18 @@ Requirement analysis is crucial in the SDLC because it helps ensure that the fin
 
 ### Conclusion
 Requirement analysis is a vital phase in the SDLC, forming the blueprint for successful software development. By understanding, documenting, and validating requirements, teams can build software that truly meets the users' needs while minimizing risks and maximizing efficiency. Adopting systematic techniques and best practices in requirement analysis leads to well-defined project scopes, smoother development processes, and higher stakeholder satisfaction.
+
+#### Use Case Diagrams
+
+Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+Creating Use Case Diagrams:
+
+Identify actors (e.g., guest, registered user, admin).
+Define use cases (e.g., search properties, book property, manage listings).
+Draw interactions between actors and use cases.
+
+#### Benefits of Use Case Diagrams:
+
+Provide a clear visual representation of system functionalities.
+Help in identifying and organizing system requirements.
+Facilitate communication among stakeholders and development team.
